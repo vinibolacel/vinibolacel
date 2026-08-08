@@ -8,13 +8,15 @@ I'm building hands-on experience in IT support, Windows Server administration, n
 
 ## 🛠️ Technical Skills
 
-- **Windows Server:** Active Directory, DNS, DHCP, Group Policy
-- **Virtualization:** Hyper-V
-- **Networking:** TCP/IP, VLANs, Switching, Routing, DHCP, DNS
-- **Cisco:** Cisco Packet Tracer, Switch Configuration, VLAN Configuration
+- **IT Support:** Help Desk Support, Desktop Support, Troubleshooting, Incident Management, User Support, Technical Documentation
+- **Windows Server:** Active Directory Domain Services (AD DS), DNS, DHCP, Group Policy, File Sharing, User & Group Management
+- **Networking:** TCP/IP, IPv4 Addressing, VLANs, 802.1Q Trunking, Inter-VLAN Routing, Router-on-a-Stick, Switching, Routing, Rapid-PVST
+- **Cisco:** Cisco Packet Tracer, Cisco IOS CLI, Switch & Router Configuration, VLAN Configuration, Connectivity Testing
+- **Virtualization:** Hyper-V, Windows Server & Windows 11 Virtual Machines
 - **Operating Systems:** Windows 11, Windows Server
-- **Tools:** Git, GitHub, PowerShell
-- **Web:** HTML, CSS
+- **Administration & Security:** Access Control, Basic Network Security, Account Management, Security Awareness
+- **Tools & Scripting:** PowerShell, Git, GitHub
+- **Web Technologies:** HTML, CSS, Responsive Web Design
 
 ## 🚀 Featured Projects
 
