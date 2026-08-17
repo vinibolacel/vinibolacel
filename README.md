@@ -13,7 +13,7 @@ I am developing practical experience through hands-on home labs, Cisco network s
 - **Networking:** TCP/IP, IPv4 Addressing, Subnetting, VLANs, 802.1Q Trunking, Inter-VLAN Routing, Router-on-a-Stick, Switching, Routing, Rapid-PVST, Connectivity Testing
 - **Cisco:** Cisco Packet Tracer, Cisco IOS CLI, Router and Switch Configuration, VLAN Configuration, Trunk Configuration, Network Troubleshooting
 - **Cyber Security:** SSH Log Analysis, Threat Identification, Risk Assessment, Security Incident Documentation, False-Positive and False-Negative Evaluation, Access Control, Security Hardening Concepts, Mitigation Planning
-- **Virtualizations:** Hyper-V, Windows Server and Windows 11 Virtual Machines
+- **Virtualisations:** Hyper-V, Windows Server and Windows 11 Virtual Machines
 - **Operating Systems:** Windows 11, Windows Server
 - **Tools & Scripting:** PowerShell, Git, GitHub
 - **Web Technologies:** HTML, CSS, Responsive Web Design
